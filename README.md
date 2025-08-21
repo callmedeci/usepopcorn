@@ -10,10 +10,10 @@ usePopcorn is a movie discovery and tracking app where you can search for IMDb m
 - **Responsive Design**: Clean dark UI that works across devices.
 
 ## Technologies Used
-- **Frontend**: React, React Scripts
-- **Testing**: React Testing Library, Jest DOM
-- **Styling**: Custom CSS (dark theme)
-- **Performance Monitoring**: Web Vitals
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Installation
 
@@ -21,8 +21,7 @@ usePopcorn is a movie discovery and tracking app where you can search for IMDb m
    ```sh
    git clone https://github.com/yourusername/usepopcorn.git
    cd usepopcorn
-    ```
-
+   ````
 
 2. Install dependencies:
 
